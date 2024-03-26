@@ -13,3 +13,13 @@ It stores the language that has the maximum probability for that sentence.
 Accuracy : 97.67%
 
 to execute : python3 algorithm2b.py
+
+
+data.zip : extract the file and place all the .txt files inside as the same folder as the .py files.
+
+wordLangId.out.txt -> is the output file (reference)
+LangId -> gives the test data(sentences) for prediction.
+LangId.sol -> is the solution(sample)
+.English -> English training data
+.French -> French training data
+.Italian -> Italian training data
